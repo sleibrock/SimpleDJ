@@ -16,5 +16,3 @@ my own. It's written using Bass.NET and C# with Visual Studio 2012.
 
 A premade binary exists in the repo under the /Debug/ folder. 
 I won't be making any new commits to this project.
-
-This project
