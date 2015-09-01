@@ -1,7 +1,4 @@
 #Simple DJ
-by [leibrockoli](http://github.com/leibrockoli/)
-
-##About SimpleDJ
 
 SimpleDJ was a project created for a Software Engineering final mostly done on 
 my own. It's written using Bass.NET and C# with Visual Studio 2012.
